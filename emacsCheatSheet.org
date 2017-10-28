@@ -1,0 +1,31 @@
+* Standard Emacs
+** Copy paste
+*** Select - C-<spc>
+*** Copy - M-w (Kill-ring-save)
+*** Cut -  C-w (Kill)
+*** Paste - C-y (Yank)
+
+** Movement
+*** Forward 1 char - C-f (forward)
+*** Back 1 char - C-b (back)
+*** Up 1 line - C-p (prev)
+*** Down 1 line - C-n (next)
+*** Forward 1 word - M-f
+*** Back 1 word - M-b
+*** End of file M->
+*** Start of file M-<
+** Undo C-x u
+** Quit C-x C-c
+
+** Set Bookmark   C-x r m
+** GoTo Bookmarks C-x r b
+** List Bookmarks C-x r l
+
+** Minimize C-z
+
+** Zoom in  C-x C-+
+** Zoom Out C-x C--
+* Plugins
+** Google C-c / g
+
+* Org Mode

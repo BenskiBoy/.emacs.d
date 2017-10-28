@@ -1,0 +1,88 @@
+dir
+ls
+cd SWE30001-Real\ Time\ Programming/
+dir
+ls
+cd Week 4
+ls
+cd Week 4
+cd 'Week 4'
+dir
+ls
+cd Lab
+ls
+dates.exe
+./dates.exe
+dir
+ols
+ls
+cd SWE30001-Real\ Time\ Programming/
+dir
+ls
+emake
+cmake
+make
+g++
+cd ..
+cd ..
+cd ..
+dir
+ls
+cd SWE30001-Real\ Time\ Programming/
+dir
+ls
+cd ..
+ls
+cd ..
+ls
+cd Dropbox/
+ls
+ls
+gnatmake RTP_Class_Week_Two.adb
+rtp_class_week_two.exe
+rtp_class_week_two
+./rtp_class_week_two
+./rtp_class_week_two.exe
+gnatmake RTP_Class_Week_Two.adb
+./rtp_class_week_two.exe
+gnatmake RTP_Class_Week_Two.adb
+./rtp_class_week_two.exe
+gnatmake RTP_Class_Week_Two.adb
+./rtp_class_week_two.exe
+gnatmake RTP_Class_Week_Two.adb
+./rtp_class_week_two.exe
+gnatmake RTP_Class_Week_Two.adb
+./rtp_class_week_two.exe
+./rtp_class_week_two.exe
+gnatmake RTP_Class_Week_Two.adb
+./rtp_class_week_two.exe
+dir
+ls
+dir
+ls
+cd ..
+cd ..
+cd ..
+cd ..
+cd Desktop
+ls
+cd ..
+cd Dropbox/
+cd ..
+cd Desktop/
+dir
+ls
+cd simrail2/
+ls
+gnatmake skel2.exe
+gnatmake skel2.adb
+gnatmake skel2.adb
+skel2.exe
+ls
+skel2.exe
+./skel2.exe
+gnatmake skel2.adb
+gnatmake skel2.adb
+gnatmake skel2.adb
+dir
+ls
