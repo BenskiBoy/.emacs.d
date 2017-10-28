@@ -113,7 +113,6 @@
  '(ido-mode (quote both) nil (ido))
  '(imenu-auto-rescan t)
  '(imenu-auto-rescan-maxout 500000)
- '(initial-buffer-choice "C:/Users/Benjamin/Documents/emacs/TODO_List_Uni.org")
  '(kept-new-versions 5)
  '(kept-old-versions 5)
  '(make-backup-file-name-function (quote ignore))
